@@ -1,11 +1,11 @@
 # 🧵 Parallel Task Scheduler
 
-[![Build](https://img.shields.io/github/actions/workflow/status/Mozeel-V/parallel-task-scheduler/build.yml)](https://github.com/Mozeel-V/parallel-task-scheduler/actions)
-[![License](https://img.shields.io/github/license/Mozeel-V/parallel-task-scheduler)](LICENSE)
 [![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![License](https://img.shields.io/github/license/Mozeel-V/parallel-task-scheduler)](LICENSE)
+[![Tested with Catch2](https://img.shields.io/badge/tested%20with-Catch2-blue)](https://github.com/catchorg/Catch2)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)]()
 
-> A multithreaded task scheduler built in modern C++ to demonstrate concurrency, thread pooling, and synchronization using low-level primitives like `std::thread`, `std::mutex`, and `std::condition_variable`.
+A multithreaded task scheduler built in modern C++ to demonstrate concurrency, thread pooling, and synchronization using low-level primitives like `std::thread`, `std::mutex`, and `std::condition_variable`.
 
 ---
 
