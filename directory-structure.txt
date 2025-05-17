@@ -1,0 +1,17 @@
+ParallelTaskScheduler/
+│
+├── include/
+│   └── ThreadPool.h           # Declarations only
+│
+├── src/
+│   ├── main.cpp               # Main test program
+│   └── ThreadPool.cpp         # Definitions of ThreadPool methods
+│
+├── tests/
+│   └── test_threadpool.cpp    # Catch2-based unit tests
+│
+├── Makefile                   # For building
+├── LICENSE                    # MIT open source LICENSE
+├── directory-structure.txt    # This File
+├── .gitignore                 # For GitHub
+└── README.md                  # Info about the project
